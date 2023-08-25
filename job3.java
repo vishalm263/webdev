@@ -1,4 +1,4 @@
-public classjob3 {  
+public class job3 {  
 public static void main(String args[])   
 {  
 int n1 = 225, n2 = 115, sum;  
